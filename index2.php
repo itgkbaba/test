@@ -43,6 +43,6 @@ for ($counter=13;$counter<=19;$counter++)
 </a>
 
 <img border="0" src="http://www.aogaku-karate.com/img/top_main.jpg" alt="aaa"/>
-
+aaaaaaaa
 </body>
 </html>
