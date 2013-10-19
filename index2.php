@@ -8,6 +8,7 @@ yeah!<br/>
 muzukasii kedo tanosi-!
 <body>
     <h1>mojibake chu-i</h1>
+    <h1>mojibake chu-i</h1>
     <p>body body</p>
 <strong>tuyoi
 
